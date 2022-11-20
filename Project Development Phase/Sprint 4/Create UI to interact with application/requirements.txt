@@ -1,5 +1,0 @@
-flask
-newsapi-python
-ibm-db
-requests
-
